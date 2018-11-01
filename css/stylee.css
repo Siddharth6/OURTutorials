@@ -1,0 +1,33 @@
+.van{
+font-family: 'Bad Script', cursive;
+font-size: 23px;
+
+}
+.siddharth{
+    font-family: 'Mali', cursive;
+    font-size: 20px;
+
+
+}
+.our{
+    font-family: 'Cookie', cursive;
+    font-size: 20px;
+}
+.tutorial{
+
+    font-family: 'Parisienne', cursive;
+    font-size: 20px;
+}
+.chamkila{
+    animation:blinkingText 0.8s infinite;
+}
+@keyframes blinkingText{
+    0%{     color: rgb(219, 36, 36);    }
+    49%{    color: rgb(94, 228, 32); }
+    50%{    color:  rgb(100, 79, 224); }
+    99%{    color: rgb(214, 24, 129);  }
+    100%{   color:  rgb(89, 250, 210);;    }
+}
+
+
+
